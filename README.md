@@ -22,6 +22,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
     - [Gatsby Theme Garden](https://github.com/mathieudutour/gatsby-digital-garden/) Gatsby theme that supports using Roam as a source
     - [Roam-to-Garden](https://github.com/DoomHammer/roam-to-git/tree/roam-to-garden) Jekyll based converter for your Roam Data
 - [Obsidian](https://obsidian.md/) - a Roam-like knowledge base that works on top of a local folder of plain text Markdown files. Also allows you to publish selections of your graph to the open web.
+- [Logseq](https://logseq.com/) - A FOSS, local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base.
 - [TiddlyWiki](https://tiddlywiki.com/) - A no-code personal wiki system
   - [Stroll](https://giffmex.org/stroll/stroll.html) a TiddlyWiki plugin with bi-directional links and other Roam-like features
   - [TiddlyMap](http://tiddlymap.org/) - a mind-map plugin that shows visualizations for TiddlyWiki.
@@ -66,6 +67,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 - [How to plant a Garden](https://www.loom.com/share/05ac911308554668a6b35fd2b321d3d9) a video walkthrough for converting your RoamResearch DB into a public garden by [Vlad Sitalo](https://twitter.com/VladyslavSitalo)
 - [Digital Gardening for Non-Technical Folks](https://maggieappleton.com/nontechnical-gardening) by Maggie Appleton
 - [5 No Code Digital Gardening Tools](https://ianjones.us/notes/digital-garden/five-no-code-digital-gardens) by Ian Jones
+- [Getting started with Logseq and Publishing to Netlify](https://briansunter.com/graph/#/page/logseq-getting-started)
 
 <br />
 
@@ -157,3 +159,4 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 | [Soren Bjornstad](https://zettelkasten.sorenbjornstad.com) | TiddlyWiki + homegrown scripts | Almost everything; emphasis on tech, reading, and how to live |
 | [Paul Batchelor](https://pbat.ch/wiki) | [WeeWiki](https://pbat.ch/wiki/weewiki) | Computer Music, Audio Programming, Literate Programming, Food |
 | [Memento](https://m0wer.github.io/memento/) | [MkDocs](https://www.mkdocs.org/), [MkDocs Newsletter](https://lyz-code.github.io/mkdocs-newsletter/) | Python, GNU/Linux, DevOps, Flutter, traveling, cooking, ...|
+| [Digitized Diasporic Memory by Candide Uyanze](https://demo.diasporamemory.com/) | [Logseq](https://logseq.com/) + GitHub Pages | Non-linear Interactive Documentary on Collective Audio Storytelling (Graduate M.Des Thesis Project)  |
